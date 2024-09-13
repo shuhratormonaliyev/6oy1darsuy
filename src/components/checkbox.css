@@ -1,0 +1,13 @@
+.checkbox-container {
+    width: 14px;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    color:#83CD20;
+    margin-top: 3px;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
